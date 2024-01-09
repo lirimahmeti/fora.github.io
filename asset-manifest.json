@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/fora.github.io/static/js/main.7a8288f5.js",
+    "main.css": "/fora.github.io/static/css/main.241951ba.css",
+    "main.js": "/fora.github.io/static/js/main.a350c79e.js",
     "index.html": "/fora.github.io/index.html",
-    "main.7a8288f5.js.map": "/fora.github.io/static/js/main.7a8288f5.js.map"
+    "main.241951ba.css.map": "/fora.github.io/static/css/main.241951ba.css.map",
+    "main.a350c79e.js.map": "/fora.github.io/static/js/main.a350c79e.js.map"
   },
   "entrypoints": [
-    "static/js/main.7a8288f5.js"
+    "static/css/main.241951ba.css",
+    "static/js/main.a350c79e.js"
   ]
 }
